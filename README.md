@@ -2,7 +2,7 @@
 
 # bearer-auth
 
-[heroku link]()
+[heroku link](https://leen-auth-api.herokuapp.com/)
 
  >>> add username and password >>>  **POST**
 
@@ -12,7 +12,7 @@
 
 
 
-[pull link]()
+[pull link](https://github.com/leenahmad/auth-api/pull/1)
 
 [action link]()
 
